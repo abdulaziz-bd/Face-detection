@@ -1,26 +1,36 @@
-# Face-detection
-Face Detection Using Haar Cascades OpenCV
+# Face Detection Using Haar Cascades OpenCV
+This Repository is for Motion Face Detection
+
+## Step 1
+##### Install OpenCV
+Open Terminal:
+Write : 
+```
+pip install opencv-python
+
+```
 
 
-#Step 1
- #Install OpenCV
+##### Install NumPy
+Open Terminal:
+Write : 
+```
+pip install numpy
 
- Open Terminal: Write :
+```
 
- pip install opencv-python
- 
- 
-#Install NumPy
+##### Install Scipy
+Open Terminal:
+Write : 
+```
+pip install scipy
 
- #Open Terminal: Write :
+```
 
- pip install numpy
+## Examples 1 :
 
-#Install Scipy
+![Image of Face Detection with OpenCV](https://i.imgur.com/UcLtbcA.png)
 
- #Open Terminal: Write :
+## Examples 2 :
 
- pip install scipy
-
-
-
+![Image of Face Detection with OpenCV](https://i.imgur.com/spEPRhA.png)
